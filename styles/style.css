@@ -17,7 +17,7 @@
 body{
     background: var(--Light-gray);
     font-family: 'Barlow Semi Condensed', sans-serif;
-    margin: 20px;
+    /* margin: 20px; */
 }
 .container{
     width: 374px;
